@@ -19,7 +19,7 @@ public class TweakStats extends JavaPlugin{
 	private Listener playerOnlineListener = new PlayerOnlineListener();
 	@Override
 	public void onDisable() {
-		log.info("TweakStats disabled :(");
+		log.info("TweakStats disabled :O HALP");
 		
 	}
 
