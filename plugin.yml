@@ -2,3 +2,7 @@ name: TweakStats
 main: com.tweakcraft.TweakStats.TweakStats
 authors: [windwarrior]
 version: 0.0.1
+commands:
+    onlinetime:
+        description: Gives time online for a specified player.
+        usage: onlinetime [player]
